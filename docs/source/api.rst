@@ -28,10 +28,14 @@ Groupby
     :members:
 
 
-.. currentmodule:: pygdf.gpuarrow
+IO
+--
 
-GpuArrowReader
---------------
+.. currentmodule:: pygdf.io
+
+.. autofunction:: read_csv
+
+.. currentmodule:: pygdf.gpuarrow
 
 .. autoclass:: GpuArrowReader
     :members:
